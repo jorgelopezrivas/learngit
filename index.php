@@ -8,4 +8,5 @@
 	// Algoritmo sofisticado
 	
 	// Mostrar resultados
+	echo("Hello World");
 ?>
