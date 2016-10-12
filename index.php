@@ -9,5 +9,6 @@
 	
 	// Mostrar resultados
 	echo("Hello World");
+	echo("uff otro mensaje");
 
 ?>
