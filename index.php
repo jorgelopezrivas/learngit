@@ -9,5 +9,7 @@
 	
 	// Mostrar resultados
 	echo("Hello World");
+	echo("asdf");
+	echo("123123");
 
 ?>
